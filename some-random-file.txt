@@ -1,1 +1,1 @@
-On branch qux. This is the third commit.
+On branch bar. This is the fourth commit.
