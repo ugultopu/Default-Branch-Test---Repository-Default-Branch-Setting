@@ -1,1 +1,1 @@
-On branch baz. This is the second commit.
+On branch qux. This is the third commit.
