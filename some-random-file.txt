@@ -1,1 +1,1 @@
-On branch foo. This is the first commit.
+On branch baz. This is the second commit.
